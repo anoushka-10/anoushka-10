@@ -14,7 +14,6 @@
 
 - 📫 How to reach me *anoushkag02@gmail.com*
 
-- ⚡ Hobbies *I am a wandelust!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
