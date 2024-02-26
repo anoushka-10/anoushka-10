@@ -20,7 +20,7 @@
 <a href="https://twitter.com/AnoushkaG017041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anoushka-goel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoushka" height="30" width="40" /></a>
 <a href="https://instagram.com/anoushka__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prapti.sharma_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/users/anoushka_10(https://leetcode.com/anoushka_10/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="anoushka" height="30" width="40" /></a>
+<a href="https://leetcode.com/anoushka_10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="anoushka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cseaiml22a_0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cseaiml22b_0082" height="30" width="40" /></a>
 </p>
 
