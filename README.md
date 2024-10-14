@@ -6,11 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoushka-10" alt="anoushka" /></a> </p>
 
 
-- 🌱 I’m currently learning *DSA*
-
-- 👯 I’m looking to collaborate on *AR Projects*
-
-- 💬 Ask me about *AR, VR, OpenCV*
+- 🌱 I’m currently practicing *DSA* and *SpringBoot*
 
 - 📫 How to reach me *anoushkag02@gmail.com*
 
