@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anoushka Goel</h1>
 <h3 align="center">A Developer from India</h3>
 
+[![An image of @anoushka10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anoushka10)](https://holopin.io/@anoushka10)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoushka-10" alt="anoushka" /></a> </p>
-
-
 
 - 🌱 I’m currently practicing *DSA* and *SpringBoot*
 
